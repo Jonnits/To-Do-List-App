@@ -1,4 +1,3 @@
-
 function newItem(){
 
   // Adding a new item to the list:
